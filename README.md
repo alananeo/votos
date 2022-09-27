@@ -33,15 +33,15 @@ Vamos explorar dados sobre as votações que candidatos à Câmara Federal de De
 
 ## Resposta
 
-Segue o R2 e o RMSE dos modelos construídos.
+Segue o R2 e o RMSE dos modelos construídos:
 
 <img src="/resultado.png" alt="Resultados"/>
 
-O modelo foi treinado com os dados de 2006 e 2004, com Ridge, Lasso e SVR
+O modelo foi treinado com os dados de 2006 e 2004, com Ridge, Lasso e SVR.
 
-O modelo final escolhido foi o SVR
+O modelo final escolhido foi o SVR.
 
-Uma predição com dados de 2014 foi gerado a partir do modelo construído
+Uma predição com dados de 2014 foi gerado a partir do modelo construído.
 
 <img src="/predicao.png" alt="Predicao"/>
 
