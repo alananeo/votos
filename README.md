@@ -37,8 +37,6 @@ Segue o R2 e o RMSE dos modelos construídos.
 
 <img src="/resultado.png" alt="Resultados"/>
 
-O modelo seleciondo foi o KNN
-
 O modelo foi treinado com os dados de 2006 e 2004, com Ridge, Lasso, e SVR
 
 O modelo final escolhido foi o SVR
